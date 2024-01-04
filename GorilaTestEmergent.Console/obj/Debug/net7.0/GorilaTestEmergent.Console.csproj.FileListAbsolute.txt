@@ -1,0 +1,14 @@
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\bin\Debug\net7.0\GorilaTestEmergent.Console.exe
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\bin\Debug\net7.0\GorilaTestEmergent.Console.deps.json
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\bin\Debug\net7.0\GorilaTestEmergent.Console.runtimeconfig.json
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\bin\Debug\net7.0\GorilaTestEmergent.Console.dll
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\bin\Debug\net7.0\GorilaTestEmergent.Console.pdb
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.AssemblyInfoInputs.cache
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.AssemblyInfo.cs
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.csproj.CoreCompileInputs.cache
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.dll
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\refint\GorilaTestEmergent.Console.dll
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.pdb
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\GorilaTestEmergent.Console.genruntimeconfig.cache
+D:\Estudos\GorilaTestEmergent\GorilaTestEmergent.Console\obj\Debug\net7.0\ref\GorilaTestEmergent.Console.dll
